@@ -2,4 +2,4 @@ Labyrinth Copyright (C) 2013 María Victoria Santiago Alcalá. This program is f
 
 ## Labyrinth
 
-This is a simple program which solve each maze.
+This is a simple program which solves each maze.
